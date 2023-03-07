@@ -1,3 +1,8 @@
+/*Phase 1 of program that crosschecks inputed passwords with "database" of files using method calls, decision making statements, and loops.
+*/
+
+
+
 import java.util.Scanner;
 public class password { 
     //makeshift password database
